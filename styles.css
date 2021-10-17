@@ -7,10 +7,20 @@ body {
   top: 0;
   bottom: 0;
   width: 100%;
+  
 }
 
 .map-overlay {
   position: absolute;
   left: 0;
-  padding: 10px;
+  padding: 2px;
+  background-color: rgb(138, 139, 140);
+  border-radius: 100px;
+}
+
+.button {
+    color: black;
+    border: solid whitesmoke 2px;
+    border-radius: 100px;
+    background-color: red;
 }

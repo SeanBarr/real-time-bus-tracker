@@ -7,7 +7,7 @@ To Run please git clone the following:
 git clone git@github.com:SeanBarr/Real-Time-Bus-Tracker.git
 
 Please use following link to access site: 
-
+https://seanbarr.github.io/Real-Time-Bus-Tracker/
 
 MIT License
 

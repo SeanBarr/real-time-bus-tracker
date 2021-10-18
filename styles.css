@@ -24,4 +24,5 @@ body {
     border-radius: 100px;
     border-color:  rgb(163, 31, 52);
     border-width: 5px;
+    padding: 15px;
 }

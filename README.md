@@ -1,10 +1,11 @@
-Real-Time-Bus-Tracker
+Project Title: Real-Time-Bus-Tracker
 
-This is a Real Time Bus Tracking Map that marks the routes between both MIT and Harvard campuses. 
+Description: This is a Real Time Bus Tracking Map that marks the routes between both MIT and Harvard campuses. 
+This project utilizes Navigation API. I have adapted the styling to view as satellite and added the MIT colors for the button. 
 
+Future stlying changes will be replacing the current marker. 
 
-To Run please git clone the following:  
-git clone git@github.com:SeanBarr/Real-Time-Bus-Tracker.git
+To Run: Git Clone: git@github.com:SeanBarr/Real-Time-Bus-Tracker.git
 
 Please use following link to access site: 
 https://seanbarr.github.io/Real-Time-Bus-Tracker/

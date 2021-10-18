@@ -13,14 +13,15 @@ body {
 .map-overlay {
   position: absolute;
   left: 0;
-  padding: 2px;
-  background-color: rgb(138, 139, 140);
+  padding: 5px;
   border-radius: 100px;
 }
 
 .button {
     color: black;
-    border: solid whitesmoke 2px;
+    background-color: rgb(138, 139, 140);
+    border: solid rgb(138, 139, 140);
     border-radius: 100px;
-    background-color: red;
+    border-color:  rgb(163, 31, 52);
+    border-width: 5px;
 }

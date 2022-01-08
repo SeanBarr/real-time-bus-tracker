@@ -7,8 +7,10 @@ I have adapted the styling to view as satellite and added the MIT colors for the
 
 Future styling changes will be replacing the current marker. 
 
-To Run: Git Clone: 
-git@github.com:SeanBarr/real-time-bus-tracker.git
+![Real Time Bus Tracker preview picture](https://github.com/SeanBarr/real-time-bus-trackewr/blob/main/image/preview.png?raw=true)
+
+To clone the repo use the following command: 
+git clone github.com/SeanBarr/real-time-bus-tracker.git
 
 Please use following link to access site: 
 https://seanbarr.github.io/real-time-bus-tracker/
